@@ -1,0 +1,27 @@
+D:\Visual\testar_hook\testar_hook\bin\x86\Debug\testar_hook.exe.config
+D:\Visual\testar_hook\testar_hook\bin\x86\Debug\testar_hook.exe
+D:\Visual\testar_hook\testar_hook\bin\x86\Debug\testar_hook.pdb
+D:\Visual\testar_hook\testar_hook\obj\x86\Debug\AutoClick 2.0.csprojResolveAssemblyReference.cache
+D:\Visual\testar_hook\testar_hook\obj\x86\Debug\testar_hook.Form1.resources
+D:\Visual\testar_hook\testar_hook\obj\x86\Debug\testar_hook.Properties.Resources.resources
+D:\Visual\testar_hook\testar_hook\obj\x86\Debug\AutoClick 2.0.csproj.GenerateResource.Cache
+D:\Visual\testar_hook\testar_hook\obj\x86\Debug\testar_hook.exe
+D:\Visual\testar_hook\testar_hook\obj\x86\Debug\testar_hook.pdb
+D:\Visual\AutoClick2.0\testar_hook\bin\x86\Debug\testar_hook.exe.config
+D:\Visual\AutoClick2.0\testar_hook\obj\x86\Debug\testar_hook.exe
+D:\Visual\AutoClick2.0\testar_hook\obj\x86\Debug\testar_hook.pdb
+D:\Visual\AutoClick2.0\testar_hook\obj\x86\Debug\AutoClick 2.0.csprojResolveAssemblyReference.cache
+D:\Visual\AutoClick2.0\testar_hook\obj\x86\Debug\testar_hook.Form1.resources
+D:\Visual\AutoClick2.0\testar_hook\obj\x86\Debug\testar_hook.Properties.Resources.resources
+D:\Visual\AutoClick2.0\testar_hook\obj\x86\Debug\AutoClick 2.0.csproj.GenerateResource.Cache
+D:\Visual\AutoClick2.0\testar_hook\bin\x86\Debug\testar_hook.exe
+D:\Visual\AutoClick2.0\testar_hook\bin\x86\Debug\testar_hook.pdb
+C:\Users\The_Luxs\Dropbox\AutoClick2.0\testar_hook\bin\x86\Debug\testar_hook.exe.config
+C:\Users\The_Luxs\Dropbox\AutoClick2.0\testar_hook\obj\x86\Debug\testar_hook.exe
+C:\Users\The_Luxs\Dropbox\AutoClick2.0\testar_hook\obj\x86\Debug\testar_hook.pdb
+C:\Users\The_Luxs\Dropbox\AutoClick2.0\testar_hook\bin\x86\Debug\testar_hook.exe
+C:\Users\The_Luxs\Dropbox\AutoClick2.0\testar_hook\bin\x86\Debug\testar_hook.pdb
+C:\Users\The_Luxs\Dropbox\AutoClick2.0\testar_hook\obj\x86\Debug\AutoClick 2.0.csprojResolveAssemblyReference.cache
+C:\Users\The_Luxs\Dropbox\AutoClick2.0\testar_hook\obj\x86\Debug\testar_hook.Form1.resources
+C:\Users\The_Luxs\Dropbox\AutoClick2.0\testar_hook\obj\x86\Debug\testar_hook.Properties.Resources.resources
+C:\Users\The_Luxs\Dropbox\AutoClick2.0\testar_hook\obj\x86\Debug\AutoClick 2.0.csproj.GenerateResource.Cache

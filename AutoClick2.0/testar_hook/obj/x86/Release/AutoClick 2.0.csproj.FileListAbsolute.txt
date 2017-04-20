@@ -1,0 +1,9 @@
+C:\Users\The_Luxs\Dropbox\AutoClick2.0\testar_hook\bin\x86\Release\testar_hook.exe.config
+C:\Users\The_Luxs\Dropbox\AutoClick2.0\testar_hook\bin\x86\Release\testar_hook.exe
+C:\Users\The_Luxs\Dropbox\AutoClick2.0\testar_hook\bin\x86\Release\testar_hook.pdb
+C:\Users\The_Luxs\Dropbox\AutoClick2.0\testar_hook\obj\x86\Release\AutoClick 2.0.csprojResolveAssemblyReference.cache
+C:\Users\The_Luxs\Dropbox\AutoClick2.0\testar_hook\obj\x86\Release\testar_hook.Form1.resources
+C:\Users\The_Luxs\Dropbox\AutoClick2.0\testar_hook\obj\x86\Release\testar_hook.Properties.Resources.resources
+C:\Users\The_Luxs\Dropbox\AutoClick2.0\testar_hook\obj\x86\Release\AutoClick 2.0.csproj.GenerateResource.Cache
+C:\Users\The_Luxs\Dropbox\AutoClick2.0\testar_hook\obj\x86\Release\testar_hook.exe
+C:\Users\The_Luxs\Dropbox\AutoClick2.0\testar_hook\obj\x86\Release\testar_hook.pdb
