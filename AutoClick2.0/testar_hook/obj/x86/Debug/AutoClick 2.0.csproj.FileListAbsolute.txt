@@ -25,3 +25,13 @@ C:\Users\The_Luxs\Dropbox\AutoClick2.0\testar_hook\obj\x86\Debug\AutoClick 2.0.c
 C:\Users\The_Luxs\Dropbox\AutoClick2.0\testar_hook\obj\x86\Debug\testar_hook.Form1.resources
 C:\Users\The_Luxs\Dropbox\AutoClick2.0\testar_hook\obj\x86\Debug\testar_hook.Properties.Resources.resources
 C:\Users\The_Luxs\Dropbox\AutoClick2.0\testar_hook\obj\x86\Debug\AutoClick 2.0.csproj.GenerateResource.Cache
+D:\autoClick\AutoClick\AutoClick2.0\testar_hook\bin\x86\Debug\testar_hook.exe.config
+D:\autoClick\AutoClick\AutoClick2.0\testar_hook\bin\x86\Debug\testar_hook.exe
+D:\autoClick\AutoClick\AutoClick2.0\testar_hook\bin\x86\Debug\testar_hook.pdb
+D:\autoClick\AutoClick\AutoClick2.0\testar_hook\obj\x86\Debug\AutoClick 2.0.csprojAssemblyReference.cache
+D:\autoClick\AutoClick\AutoClick2.0\testar_hook\obj\x86\Debug\testar_hook.Form1.resources
+D:\autoClick\AutoClick\AutoClick2.0\testar_hook\obj\x86\Debug\testar_hook.Properties.Resources.resources
+D:\autoClick\AutoClick\AutoClick2.0\testar_hook\obj\x86\Debug\AutoClick 2.0.csproj.GenerateResource.cache
+D:\autoClick\AutoClick\AutoClick2.0\testar_hook\obj\x86\Debug\AutoClick 2.0.csproj.CoreCompileInputs.cache
+D:\autoClick\AutoClick\AutoClick2.0\testar_hook\obj\x86\Debug\testar_hook.exe
+D:\autoClick\AutoClick\AutoClick2.0\testar_hook\obj\x86\Debug\testar_hook.pdb

@@ -146,7 +146,7 @@ namespace testar_hook
                 UpAndRunning = true;
             }
 
-            else if ((Key)keyConverter.ConvertFromString(TB_StopKey.Text) == e.KeyPressed)
+            else if ((Key)keyConverter.ConvertFromString(TB_StopKey.Text) == e.KeyPressed || (Key)keyConverter.ConvertFromString(TB_StartKey.Text) == e.KeyPressed && CHB_SameStartStop.Checked)
             {
                 foreach (Thread thread in threadlist)
                 {
@@ -167,6 +167,7 @@ namespace testar_hook
 
         private void B_Stop_Click(object sender, EventArgs e)
         {
+            _listener.OnKeyPressed -= _listener_OnKeyPressed;
             _listener.UnHookKeyboard();
         }
 
@@ -202,6 +203,18 @@ namespace testar_hook
             {
                 CB_Key1.Enabled = false;
                 TB_Key1.Enabled = false;
+            }
+        }
+
+        private void CHB_SameStartStopChanged(object sender, EventArgs e)
+        {
+            if (TB_StopKey.Enabled == false)
+            {
+                TB_StopKey.Enabled = true;
+            }
+            else
+            {
+                TB_StopKey.Enabled = false;
             }
         }
 
