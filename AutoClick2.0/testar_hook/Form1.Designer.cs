@@ -80,6 +80,7 @@
             this.TB_Key5 = new System.Windows.Forms.TextBox();
             this.CHB_Key5 = new System.Windows.Forms.CheckBox();
             this.CB_Key5 = new System.Windows.Forms.ComboBox();
+            this.CHB_SameStartStop = new System.Windows.Forms.CheckBox();
             this.SuspendLayout();
             // 
             // TB_StartKey
@@ -559,11 +560,23 @@
             this.CB_Key5.Size = new System.Drawing.Size(50, 21);
             this.CB_Key5.TabIndex = 39;
             // 
+            // CHB_SameStartStop
+            // 
+            this.CHB_SameStartStop.AutoSize = true;
+            this.CHB_SameStartStop.Location = new System.Drawing.Point(542, 52);
+            this.CHB_SameStartStop.Name = "CHB_SameStartStop";
+            this.CHB_SameStartStop.Size = new System.Drawing.Size(101, 17);
+            this.CHB_SameStartStop.TabIndex = 59;
+            this.CHB_SameStartStop.Text = "Same start/stop";
+            this.CHB_SameStartStop.UseVisualStyleBackColor = true;
+            this.CHB_SameStartStop.CheckedChanged += new System.EventHandler(this.CHB_SameStartStopChanged);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(657, 321);
+            this.Controls.Add(this.CHB_SameStartStop);
             this.Controls.Add(this.label13);
             this.Controls.Add(this.label14);
             this.Controls.Add(this.TB_Key8);
@@ -677,6 +690,7 @@
         private System.Windows.Forms.TextBox TB_Key5;
         private System.Windows.Forms.CheckBox CHB_Key5;
         private System.Windows.Forms.ComboBox CB_Key5;
+        private System.Windows.Forms.CheckBox CHB_SameStartStop;
     }
 }
 
